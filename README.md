@@ -1,8 +1,8 @@
 # Extract HTML differences
 Scraping HTML code of web pages, and extract difference.
 
-![Capture index](https://github.com/zenpachi/extract-html-differences/blob/images/docs/images/capture_index.png)
-![Capture page](https://github.com/zenpachi/extract-html-differences/blob/images/docs/images/capture_page.png)
+![Capture index](https://raw.githubusercontent.com/zenpachi/extract-html-differences/images/docs/images/capture_index.png)
+![Capture page](https://raw.githubusercontent.com/zenpachi/extract-html-differences/images/docs/images/capture_page.png)
 
 # Usage
 

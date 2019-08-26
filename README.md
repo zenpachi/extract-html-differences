@@ -28,7 +28,7 @@ $ ./diff.sh
 
 #### 4. Enter settings
 ```bash
-$ ./diff.sh 
+$ ./diff.sh
 Path of CSV file: <csvFilePath>
 Path for the output: <outputResultPath>
 Number of multithreading: (1) 1
@@ -68,7 +68,7 @@ $ ./diff_without_docker.sh
 
 #### 5. Enter settings
 ```bash
-$ ./diff.sh 
+$ ./diff.sh
 Path of CSV file: <csvFilePath>
 Path for the output: <outputResultPath>
 Number of multithreading: (1) 1
@@ -81,7 +81,7 @@ Are you sure you want to continue? [y/N] y
 ```
 
 ## Result files
-The result file is some html file and _result.csv.  
+The result file is some html file and _result.csv.
 Open html in a browser and open csv in an editor etc.
 
 ## BASIC Auth
@@ -92,7 +92,7 @@ Sample:
 1,https://example.com/,https://username:password@test.example.com/
 ```
 # Notes
-- Please use it for your own website without abuse.
+- Please use it for your own website without abuse. Please note that the use of other websites and applications may violate laws and regulations.
 - A lot of scraping will put a load on the server. You can reduce the load by adjusting the number of multi-threads and waiting time.
 - Use of the tool is at your own risk. The author takes no responsibility for any damage caused by the use of the tool.
 
